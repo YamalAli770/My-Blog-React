@@ -1,3 +1,9 @@
+# JSON-Server
+
+To start up the JSON Server execute the following command:
+
+### `npx json-server --watch Data/db.json --port 8000`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
